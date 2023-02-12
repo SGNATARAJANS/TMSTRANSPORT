@@ -1,6 +1,6 @@
 steps:
   integrationArtifactTransport:
-    casApiServiceKeyCredentialsId: 'caspocServiceKeyCred'
+    casApiServiceKeyCredentialsId: caspocServiceKeyCred
     integrationPackageId: AlertNotifications
     resourceID: b8a7c674d4644652a04d8805182d78c0
     name: Alert Notifications
